@@ -1,3 +1,0 @@
-cesar:/Cesar Vargas:/cvargas:/Aluno
-davi:/Davi Marczal:/dmarczal:/Aluno
-gabriel:/Gabriel Vargas:/gvargas:/Aluno

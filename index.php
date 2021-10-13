@@ -14,9 +14,6 @@
 				<input type="submit" name="submit" value="Abrir arquivo" ><br /><br/>
 			</form>
 <?php
-
-# Grupo: Cesar Vargas / Davi Marczal
-# Linguagem de Programação Web
           
 				$user = @$_REQUEST['user'];
 				$pass = @$_REQUEST['pass'];
