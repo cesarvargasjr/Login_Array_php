@@ -1,3 +1,2 @@
-Em uma das atividades de Linguagem de Programação Web, o professor da faculdade 
-solicitou uma "tela de login + senha" para abrir um arquivo txt com informações, 
-foi solicitado utilizar array + explode para manipular os dados do txt.
+Com intuito de praticar a linguagem PHP, desenvolvi uma aplicação simples, apenas com uma "tela de login e senha" para abrir 
+um arquivo txt guardando informações, utilizei array e explode para manipular os dados do arquivo.
